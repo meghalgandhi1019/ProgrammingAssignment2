@@ -13,7 +13,7 @@
 
 ## Write a short comment describing this function
 ##This function generates setter and getter methods for matrix and inverse 
-## of a matrix as we did in lecture. 
+## of a matrix as we did in lecture and in given example. 
 
 makeCacheMatrix <- function(x = matrix()) {
   inverseCache <- NULL
