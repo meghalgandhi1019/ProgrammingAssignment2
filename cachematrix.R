@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-##Brief Description:
+##Brief Description: How to test
 ##  Mat <- matrix(c(1, 2, 3, 4), nrow=2, ncol=2)
 ##  matCache <- makeCacheMatrix(Mat) #matCache contains list of original & inverse matrix.
 ##  InMat <- cacheSolve(matCache)
